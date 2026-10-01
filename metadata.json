@@ -1,0 +1,6 @@
+{
+  "name": "EcoTrack – AI-Powered Carbon Footprint Tracker",
+  "description": "Student-friendly web application to estimate, track, and reduce personal carbon emissions with real-time analytics and Gemini AI environmental recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
